@@ -7,3 +7,5 @@
 ## 3. Search by ticker
 ## 4. Edit stock
 ## 5. Delete stock
+
+![Portfolio DB](./portfolio.png)
