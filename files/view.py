@@ -17,7 +17,7 @@ def view_stocks():
         print("[0] Back")
         print()
         choice = input(
-            "Enter the number of a stock to view details or [B] to go back: "
+            "Enter the number of a stock to view details or [0] to go back: "
         ).strip()
 
         if choice == "0":
